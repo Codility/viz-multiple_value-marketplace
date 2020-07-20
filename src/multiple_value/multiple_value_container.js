@@ -24,7 +24,7 @@ const baseOptions = {
       {'Vertical': 'vertical'},
       {'Horizontal': 'horizontal'}
     ],
-    default: 'auto',
+    default: 'horizontal',
     order: 0,
     display_size: 'half'
   }
